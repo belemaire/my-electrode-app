@@ -8,6 +8,9 @@
     "email": "blemaire@walmart-labs.com",
     "url": ""
   },
+  "engines": {
+      "node": "4.2.x"
+  },
   "contributors": [],
   "files": [
     "lib"
